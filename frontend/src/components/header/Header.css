@@ -1,0 +1,44 @@
+
+.header{
+    margin-top: 90px;
+   
+  
+}
+
+.headerTitles{
+   display: flex; 
+   flex-direction: column;
+   align-items: center;
+   font-family:cursive;
+   color: #444;
+}
+
+.headerTitleSm{
+    position: absolute;
+    top: 15%;
+    font-size: 28px;
+}
+
+.headerTitleLg{
+    position: absolute;
+    top: 20%;
+    font-size: 100px;
+}
+
+.headerImg{
+    width: 95%;
+    height: 450px;
+    margin-top: 80px;
+    margin-left: 35px;
+    border-radius: 15px;
+    /* background-size: contain; */
+    /* object-fit:contain; */
+    margin-bottom: 30px;
+}
+.quote{
+    color: #616161;
+    /* color: #be9656; */
+    font-size: 38px;
+    text-align: center;
+   padding-bottom: 30px;
+}

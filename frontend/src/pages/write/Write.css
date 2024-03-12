@@ -1,0 +1,104 @@
+
+.write{
+  background-color: black;
+  margin-top: -30px;
+}
+.alert {
+   
+    color: #eb0c22;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 80px;
+    border: 1px solid #f10920;
+  width: 20%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 40%;
+  }
+.alert1 {
+   
+    color: #31eb0c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 80px;
+    border: 1px solid #09fc3d;
+  width: 20%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 40%;
+  }
+ .writeImg{
+  
+    margin-top: 30px;
+    margin-left: 180px;
+    width: 70vw;
+    height: 350px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+.imgInput{
+    margin-left:180px ; 
+   
+}
+.writeForm{
+  
+    position: relative;
+   margin-top: 5%;
+}
+.writeFormGroup1{
+    margin-left:150px ;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+ 
+}
+.writeFormGroup{
+    margin-left:150px ;
+    display: flex;
+    align-items: center;
+ 
+}
+.writeIcon{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    color: gray;
+    cursor: pointer;
+}
+.writeInput{
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+    background-color: #555252;
+ 
+}
+.writeInput:focus{
+    outline: none;
+}
+
+
+.writeText{
+    font-size: 20px;
+    height:60vh ;
+    background-color: #3c3a3a;
+   margin-bottom: 38px;
+}
+
+.writeSubmit{
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    color: white;
+    background-color: teal;
+    padding:10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size:16px ;
+}
